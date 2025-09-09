@@ -1,15 +1,18 @@
-<!-- Banner (keeps full-width inside README column) -->
 <p align="center">
   <img src="baner.png" alt="Project banner" width="100%" />
 </p>
 
-<!-- Big, visible Power BI link with icon (place Images/powerbi-icon.png in repo or replace src with an external icon URL) -->
-<p align="center" style="margin-top:18px">
-  <a href="https://app.powerbi.com/view?r=eyJrIjoiYzk0MTQ5MWEtMTE1Yy00ZGI0LWE2MzctNjBlZGRiMzI0ZjBkIiwidCI6IjVhNDZhNzkxLTk4MTQtNDlmNC05YTM0LTE4OGU2ZTRjMmM3YiJ9&pageName=c6f3abe677e68e7d004d&fbclid=IwY2xjawMsCptleHRuA2FlbQIxMABicmlkETFUYVJDVjdYRkJKcU5iczRYAR6a2cKnF19ZUHmJ8QnL1lRyy8zWomcLIKKA9fRtS_cgH803XhlUroC77SCRVA_aem_4Sha8MswVPpyMZX3vbQ-rg" target="_blank" rel="noopener">
-    <img src="Images/powerbi.png" alt="Power BI" width="34" style="vertical-align:middle; margin-right:10px;">
-    <strong style="font-size:20px; vertical-align:middle;">OPEN LIVE REPORT — Power BI Service</strong>
+<p align="center" style="margin-top:18px;">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiYzk0MTQ5MWEtMTE1Yy00ZGI0LWE2MzctNjBlZGRiMzI0ZjBkIiwidCI6IjVhNDZhNzkxLTk4MTQtNDlmNC05YTM0LTE4OGU2ZTRjMmM3YiJ9&pageName=c6f3abe677e68e7d004d&fbclid=IwY2xjawMsCptleHRuA2FlbQIxMABicmlkETFUYVJDVjdYRkJKcU5iczRYAR6a2cKnF19ZUHmJ8QnL1lRyy8zWomcLIKKA9fRtS_cgH803XhlUroC77SCRVA_aem_4Sha8MswVPpyMZX3vbQ-rg"
+     target="_blank" rel="noopener"
+     style="display:inline-flex; align-items:center; gap:20px; text-decoration:none;">
+    <img src="Images/powerbi.png" alt="Power BI" width="24" height="24" style="display:block;">
+    <span style="font-size:32px; height:100%; font-weight:700; line-height:1; color:inherit;">
+      OPEN LIVE REPORT — Power BI Service
+    </span>
   </a>
 </p>
+
 
 ---
 
