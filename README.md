@@ -1,5 +1,5 @@
 <!-- scales to README column width -->
-<img src="Images/banner.jpg" alt="Banner" width="100%">
+<img src="baner.png" alt="Banner" width="100%">
 
 # European-Football-Analysis
 
